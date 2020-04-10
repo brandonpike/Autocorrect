@@ -1,5 +1,10 @@
 from Utils.DataStructures import Trie
 
+#      [Author]
+#    Brandon Pike
+#      UTDallas
+# Software Engineering
+
 def getDictionary():
 	arr = []
 	file = open("../dictionary.txt", 'r')
