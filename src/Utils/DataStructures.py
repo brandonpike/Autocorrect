@@ -1,3 +1,8 @@
+#      [Author]
+#    Brandon Pike
+#      UTDallas
+# Software Engineering
+
 class Stack():
 	def __init__(self):
 		self.arr = []
